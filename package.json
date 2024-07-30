@@ -1,16 +1,15 @@
 {
-  "name": "1inchapi",
+  "name": "1inchapi2",
   "version": "1.0.0",
-"type": "module",
   "description": "",
-  "main": "proxy.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
-    "request": "^2.88.2"
+    "express": "^4.19.2"
   }
 }
